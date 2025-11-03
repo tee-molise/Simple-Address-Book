@@ -1,4 +1,4 @@
-<img width="336" height="246" alt="Screenshot 2025-11-03 230127" src="https://github.com/user-attachments/assets/b8dda1d4-e1df-47c8-b6d0-7dfdfdb16f6b" /># Simple-Address-Book
+># Simple-Address-Book
 The Simple Address Book is a C-based program designed to help users store and manage personal contact information easily.
 
 
