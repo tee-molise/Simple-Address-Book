@@ -72,19 +72,11 @@ Compile and run the program.
 Follow the on-screen menu options to add, view, search, or delete contacts.
 
 📸 Sample Output
-===== Simple Address Book =====
-1. Add Contact
-2. Display All Contacts
-3. Search Contact
-4. Delete Contact
-5. Exit
+<img width="346" height="180" alt="Screenshot 2025-11-03 234529" src="https://github.com/user-attachments/assets/36413c15-f047-4b70-82fb-34997a061425" />
+
 Enter your choice: 1
 
-Enter Name: John Doe
-Enter Phone Number: 9876543210
-Enter Email: username@.com
-Enter Address:kharar,punjab
-Contact added successfully!
+<img width="302" height="317" alt="image" src="https://github.com/user-attachments/assets/9b2c21dd-19ee-473e-b7c1-d002c5241e35" />
 
 🧾 Example Data Structure
 struct Contact {
